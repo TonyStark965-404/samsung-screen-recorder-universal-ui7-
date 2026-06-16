@@ -1,0 +1,11 @@
+*All of this is according to tests conducted on Android 11, 16 and 16 QPR2. (One UI 3.1, 8.0 and 8.5)*
+
+An updated fork of the original port by rrrainielll, featuring refreshed icons to better match newer One UI(7-9) designs. Works "mostly" fine on newer One UI versions.
+
+P.S.: 👉 In this build, selecting System Sounds under Record sound causes a crash when recording begins. 
+      👉 This build does not include features from newer versions such as selfie recording, on‑screen drawing, or partial recording. 
+      👉 Videos are saved in DCIM/Video Screenshots and may take some time to appear in the gallery. 
+      👉 Doesn’t appear under Settings > Advanced features.
+      👉 One UI 7-8 and One UI 8.5 versions are different because they use different scaling for quick settings icons, so use the one most suited to the one you are on.
+
+On Android 16 and above, the “Screen recording” live activity cannot be triggered, though the “Screen being cast” activity does appear on the now bar. The notification style and overall UI is still from the One UI 1.0/2.0 era and looks out of place but may be updated later.
